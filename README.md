@@ -9,4 +9,5 @@ In case of 2FA, the AzureAD powershell module is automatically installed within 
 .\Get-AzureAD-BitlockerKeys.ps1 -email email@example.com -password Password123!
 ```
 
-![image](https://github.com/user-attachments/assets/115ab640-8159-453c-b1cd-1ba9f7f433d1)
+![image](https://github.com/user-attachments/assets/1b5b7a51-9fa5-4279-82eb-52a69fe7b783)
+
